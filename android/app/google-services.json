@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545296632025",
+    "project_id": "webrtc-test-23ac4",
+    "storage_bucket": "webrtc-test-23ac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545296632025:android:fe3062626003f998de96c8",
+        "android_client_info": {
+          "package_name": "com.gariskode.webrtc_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545296632025-co2jov777o0sie3h72cm6nv301sdqqtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBquPJqVXtIkvTVHKd6XS-5P7wdn1l9nXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545296632025-co2jov777o0sie3h72cm6nv301sdqqtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
